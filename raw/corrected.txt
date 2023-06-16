@@ -563,28 +563,28 @@ dž = the j „ just.
 
 ---
 
-GRAMMAR 
+GRAMMAR
 
 
 
-INTRODUCTION. 
+INTRODUCTION.
 
-§ 1. Windhill is a manufacturing village in the 
-township of Idle and parish of Calverley in the West 
-Riding of Yorkshire, three miles North of Bradford. 
+§ 1. Windhill is a manufacturing village in the
+township of Idle and parish of Calverley in the West
+Riding of Yorkshire, three miles North of Bradford.
 
-The dialect belongs to the Eastern North Midland group, 
-which embraces the whole of South Yorkshire. Dr. Ellis 
-(EEPr. v. p. 364) distinguishes nine varieties : The Western 
-group containing var. 1. Huddersfield and var. 2. Halifax. 
-The North Central group containing var. 3. Keighley, 
-var. 4. Bradford, var. 5. Leeds, var. 6. Dewsbury. The 
-South Central group containing var. 7. Rotherham and 
-var. 8. Sheffield. The Eastern group containing var. 9. 
-Doncaster and the Eastern slip. 
+The dialect belongs to the Eastern North Midland group,
+which embraces the whole of South Yorkshire. Dr. Ellis
+(EEPr. v. p. 364) distinguishes nine varieties: The Western
+group containing var. 1. Huddersfield and var. 2. Halifax.
+The North Central group containing var. 3. Keighley,
+var. 4. Bradford, var. 5. Leeds, var. 6. Dewsbury. The
+South Central group containing var. 7. Rotherham and
+var. 8. Sheffield. The Eastern group containing var. 9.
+Doncaster and the Eastern slip.
 
-Of these nine varieties the Windhill dialect is most 
-closely related to numbers 3. 4. 5. 
+Of these nine varieties the Windhill dialect is most
+closely related to numbers 3. 4. 5.
 
 
 
@@ -593,39 +593,33 @@ B
 
 
 
+---
+
+PHONOLOGY
 
 
-PHONOLOGY 
+CHAPTER I.
 
+PRONUNCIATION.
 
+A. The Vowels.
 
--*-*- 
+§ 2. The Windhill dialect contains the following vowel
+sounds:—
 
+Short vowels a, e, i, o, u, ə
 
+Long „ ā, ī, ū, ə¯
 
-CHAPTER I. 
+Short diphthongs ai, ei, oi, ui
+eu, iu, ou
+eə, iə, oə, uə 
+Long „ āə 
 
-PRONUNCIATION. 
+Triphthongs aiə, iuə, ouə
 
-A. The Vowels. 
-
-§ 2. The Windhill dialect contains the following vowel 
-sounds : — 
-
-Short vowels a, e, i, o, u. q 
-
-Long „ a, I, u, § 
-
-Short diphthongs ai, ei, oi, ui 
-
-eu, iu, ou 
-eo, ie, oe, uo 
-Long „ ao 
-
-Triphthongs aio, iue, ouo 
-
-Note. — To these must be added 1. m, n, id in the function of vowels. For 
-examples see the corresponding consonants §§ 17-19. 
+Note. — To these must be added l, m, n, ŋ in the function of vowels. For 
+examples see the corresponding consonants §§ 17-19.
 
 § 3. In the following paragraphs will be given a brief 
 description of the Windhill vowel-system. For which pur- 
