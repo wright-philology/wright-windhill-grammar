@@ -137,8 +137,8 @@ of England. Edited by Professor Skeat. 4s. 6d.
 4. The History of English Sounds. By Henry Sweet. (Out of Print) 4s. 6d.
 5. Seven Provincial English Glossaries, from various sources. Edited
 by the Rev. Walter W. Skeat.
-6. Ray's Collection of English Words not generally used, from the
-edition of 1691; together with Thoresby's Letter to Ray, 1703. Rearranged and newly
+6. Ray’s Collection of English Words not generally used, from the
+edition of 1691; together with Thoresby’s Letter to Ray, 1703. Rearranged and newly
 edited by the Rev. Walter W. Skeat.
 
 
@@ -494,7 +494,7 @@ EEPr. = Early English Pronunciation, by A. J. Ellis.
 
 E.E.T.S. = Early English Text Society.
 
-Etym. Diet. = Etymological Dictionary of the English Language, by 
+Etym. Dict. = Etymological Dictionary of the English Language, by 
 W. W. Skeat.
 
 Florio = A Worlde of Wordes, or most copious and exact Dictionarie in 
@@ -515,11 +515,11 @@ P. B. Beitr. = Beiträge zur Geschichte der deutschen Sprache und Literatur,
 herausgegeben von H. Paul und W. Braune.
 
 Prompt. Parv. = Promptorium parvulorum sive clericorum, dictionarius
-Anglo-Latinus princeps, auctore fratre Galfrido, graninaatico dicto, ex ordine
-fratrum predicatorum, Northfolciensi, circa a. d. MCCCCXL, ad fidern codicum 
+Anglo-Latinus princeps, auctore fratre Galfrido, grammatico dicto, ex ordine
+fratrum predicatorum, Northfolciensi, circa a. d. MCCCCXL, ad fidem codicum 
 recensuit Albert Way, London, 1865.
 
-Sievers, OE. Gr. = Angelsächsische Grainmatik, von E. Sievers.
+Sievers, OE. Gr. = Angelsächsische Grammatik, von E. Sievers.
 
 Stratmann = Dictionary of the Old English Language, by F. H. Stratmann
 (new edition, by H. Bradley).
@@ -530,7 +530,7 @@ Sweet, NE. Gr. = New English Grammar, by H. Sweet.
 
 Synopsis of Old English Phonology, by A. L. Mayhew.
 
-Town. Myst. = The Towneley Mysteries (printed for the Surtees Society').
+Town. Myst. = The Towneley Mysteries (printed for the Surtees Society).
 
 
 
